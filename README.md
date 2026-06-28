@@ -26,3 +26,9 @@ Live-server является расширением VSCode
 1. Клонируйте репозиторий:
    ```bash
    git clone [https://github.com/habwu/mesto-ad.git](https://github.com/habwu/mesto-ad.git)
+2. Установите зависимости:
+   ```bash
+   npm install
+3. Запустите проект в режиме разработки:
+   ```bash
+   npm run dev
